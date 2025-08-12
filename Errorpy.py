@@ -1,2 +1,2 @@
 print("linea con error")
-dfsfsfsf
+print("dfsfsfsf")
