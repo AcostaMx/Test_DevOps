@@ -16,4 +16,5 @@ steps:
 - script: |
     echo "Ejecutando script Python..."
     python3 Errorpy.py
+    python3 helloselenium.py
   displayName: 'Ejecutar script Python'
